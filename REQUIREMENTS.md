@@ -71,6 +71,11 @@ watching a show or listening to music from a single host phone, e.g. Crunchyroll
   manually if automatic discovery fails.
 - **FR-12** Errors and state changes (permission denied, peer lost, connection dropped)
   must be surfaced to the user in plain language, not only in logs.
+- **FR-13** An app icon must be created or generated for the app and actually used as its
+  launcher icon (and, where applicable, splash/branding imagery) — the default placeholder
+  icon of the chosen framework is not acceptable. The icon must be an original design or
+  generated asset that does not infringe third-party rights (NFR-1 applies: no paid icon
+  packs or licensed artwork).
 
 ## 4. Non-functional requirements
 

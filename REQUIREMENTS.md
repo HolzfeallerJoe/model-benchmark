@@ -10,6 +10,8 @@ written here. All design and technology decisions are the implementer's to make.
 1. In the current working directory, create a new folder named
    `wifi-sound-thing-<model>`, where `<model>` identifies you, the implementing model or
    agent (e.g. your model name or ID, lowercased, with spaces/dots replaced by hyphens).
+   If that folder name is already taken, append the date of the run instead, as
+   `wifi-sound-thing-<model>-<YYYY-MM-DD>`.
 2. Create a `docs` folder inside it and copy this requirements file and the accompanying
    `DELIVERABLES.md` to `wifi-sound-thing-<model>/docs/`.
 3. Do all project work inside `wifi-sound-thing-<model>` — nothing outside that folder may
